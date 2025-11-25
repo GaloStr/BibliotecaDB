@@ -26,3 +26,9 @@ Las siguientes herramientas y lenguajes fueron utilizados en el desarrollo de es
 | **Módulo `sqlite3`** | Conexión y ejecución de consultas SQL desde Python. |
 
 ---
+
+### 📖 Documentación Detallada
+
+🔗 **Documentación del Proyecto:** [Análisis de Biblioteca - Documentación](https://docs.google.com/document/d/1LjKtbK0dXjK14sUfVBnCaZstoNsqmoaTFvRyOkRRtmc/edit?usp=sharing)
+
+---
